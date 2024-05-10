@@ -21,21 +21,21 @@ Enso Co-living is a mobile application tailored specifically for residents of En
 - **APIs**: Custom APIs for real-time data retrieval and management, enhancing user experience and operational efficiency.
 
 ## Screenshots
-![Home Screen - Logged In](screenshots/homepage-logged-in(iPhone SE).png)
-![Home Screen - Sign Up](screenshots/homepage-not-logged-in(iphone SE).png)
-![Home Screen - About Us clicked](screenshots/homepage-about-us-clicked (iPhone SE).png)
-![Profile](screenshots/profile(iPhone XR).png)
-![Profile - edit](screenshots/profile-edit(iPhone SE).png)
-![Incidents](screenshots/incidents(iPhone XR).png)
-![Incidents - full form](screenshots/incident3 (iPhone SE).png)
-![Incidents - warning](screenshots/incident4(iPhone SE).png)
-![Incidents - N/A](screenshots/incident2(iPhone SE).png)
-![Contact](screenshots/contact(iPhone 14).png)
-![Contact - Community](screenshots/contact-community(iPhone XR).png)
-![Events](screenshots/events (iPhone XR).png)
-![Handbook](screenshots/handbook (iPhone XR).png)
-![Sign Up](screenshots/sign-up(iPhone SE).png)
-![Log In](screenshots/Login(iPhone SE).png)
+![Home Screen - Logged In](screenshots/homepage-logged-in(iPhone%20SE).png)
+![Home Screen - Sign Up](screenshots/homepage-not-logged-in(iphone%20SE).png)
+![Home Screen - About Us clicked](screenshots/homepage-about-us-clicked (iPhone%20SE).png)
+![Profile](screenshots/profile(iPhone%20XR).png)
+![Profile - edit](screenshots/profile-edit(iPhone%20SE).png)
+![Incidents](screenshots/incidents(iPhone%20XR).png)
+![Incidents - full form](screenshots/incident3%20(iPhon%20SE).png)
+![Incidents - warning](screenshots/incident4(iPhone%20SE).png)
+![Incidents - N/A](screenshots/incident2(iPhone%20SE).png)
+![Contact](screenshots/contact(iPhone%2014).png)
+![Contact - Community](screenshots/contact-community(iPhone%20XR).png)
+![Events](screenshots/events%20(iPhone%20XR).png)
+![Handbook](screenshots/handbook%20(iPhone%20XR).png)
+![Sign Up](screenshots/sign-up(iPhone%20SE).png)
+![Log In](screenshots/Login(iPhone%20SE).png)
 
 ## Installation and Setup
 
@@ -72,13 +72,13 @@ This command checks your environment and displays a report to the terminal windo
 4.Run the application:
   ```bash
   flutter run
+   ```
 
 ## Contributing
 Contributions are welcome and greatly appreciated. Please fork this repository and open a pull request to add more features or submit issues for anything you feel could be improved or reported.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Contact
 Madeline: madelinepdx@gmail.com
 Project Link: https://github.com/madelinepdx/EnsoApp
