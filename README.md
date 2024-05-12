@@ -27,7 +27,7 @@ Enso Co-living is a mobile application tailored specifically for residents of En
 ![Profile](screenshots/profile(iPhone%20XR).png)
 ![Profile - edit](screenshots/profile-edit(iPhone%20SE).png)
 ![Incidents](screenshots/incidents(iPhone%20XR).png)
-![Incidents - full form](screenshots/incident3%20(iPhon%20SE).png)
+![Incidents - full form](screenshots/incident3%20(iPhone%20SE).png)
 ![Incidents - warning](screenshots/incident4(iPhone%20SE).png)
 ![Incidents - N/A](screenshots/incident2(iPhone%20SE).png)
 ![Contact](screenshots/contact(iPhone%2014).png)
