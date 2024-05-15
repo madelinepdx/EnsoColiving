@@ -1,8 +1,7 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Enso Co-living</title>
-    <link rel="icon" href="../favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="
         default-src 'self' https://pablo-49786.bubbleapps.io https://accounts.google.com https://lu.ma https://enso-coliving.monday.com;
@@ -27,23 +26,6 @@
     </style>
 </head>
 <body>
-    <!-- Include the Cordova script; it must be before your custom script usage -->
-    <script src="cordova.js"></script>
-    <script>
-        // Function to open links externally in the system's default browser
-        function openExternalLink(url) {
-            cordova.InAppBrowser.open(url, '_system');
-        }
-
-        // Function to open links within an in-app browser window
-        function openInAppBrowser(url) {
-            var ref = cordova.InAppBrowser.open(url, '_blank', 'location=yes');
-            ref.addEventListener('loadstart', function(event) { console.log('start: ' + event.url); });
-            ref.addEventListener('loadstop', function(event) { console.log('stop: ' + event.url); });
-            ref.addEventListener('loaderror', function(event) { console.log('error: ' + event.message); });
-            ref.addEventListener('exit', function(event) { console.log('exit'); });
-        }
-    </script>
     <iframe src="https://pablo-49786.bubbleapps.io/app" allowfullscreen></iframe>
 </body>
 </html>

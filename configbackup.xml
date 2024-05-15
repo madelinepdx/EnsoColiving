@@ -8,14 +8,9 @@
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
-    <access origin="https://pablo-49786.bubbleapps.io" />
-    <access origin="https://accounts.google.com" />
-    <access origin="https://drive.google.com" />
-    <access origin="https://lu.ma" />
-    <access origin="https://enso-coliving.monday.com" />
+    <access origin="https://pablo-49786.bubbleapps.io/app" />
     <allow-navigation href="https://pablo-49786.bubbleapps.io/*" />
     <allow-navigation href="https://lu.ma/ensoexperiences" />
     <allow-navigation href="https://enso-coliving.monday.com" />
     <allow-navigation href="https://accounts.google.com/*" />
-    <allow-navigation href="https://drive.google.com/*" />
 </widget>
